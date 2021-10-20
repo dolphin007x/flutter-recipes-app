@@ -1,6 +1,6 @@
 # recipes
 
-A new Flutter project.
+My first Flutter project - a recipes app, from the book Flutter Apprentice.
 
 ## Getting Started
 
